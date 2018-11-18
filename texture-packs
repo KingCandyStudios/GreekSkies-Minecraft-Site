@@ -1,0 +1,635 @@
+
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>GreekSkies - Home</title>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script async="" src="https://embed.tawk.to/5b5d35e7df040c3e9e0c0e9a/default" charset="UTF-8" crossorigin="*"></script><script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5b5d35e7df040c3e9e0c0e9a/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+  
+  
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+<style type="text/css">body {            padding-top:52px;            }            .tebexLogin {                font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;                height: 52px;                background: #00b0ff;                color: #00b0ff;                display:block !important;                width:100%;                opacity:1 !important;                visibility: visible !important;                position:absolute;                top:0px;                left:0px;                font-size:90%;                z-index:1337;            }            .xpaystation-widget-lightbox {              z-index: 31337 !important;            }            .tebexProfile {                background: rgba(0, 0, 0, 0.25);                width: 200px;                height:100%;                float:left;                display:none;                position:relative;            }            .tebexDropdown {                display:none;                width:200px;                background:#FFF;                x-min-height:100px;                position:absolute;                top:52px;                left:0px;                border: 1px solid #EEE;                z-index:100;                color: #222;                line-height:100%;            }            .tebexDropdown:before {                display:block;                width:0px;                height:00px;                background:transparent;                border-top:10px  solid transparent;                border-left:10px solid transparent;                border-right:10px solid transparent;                border-bottom:10px solid #FFF;                content:"";                position:relative;                top:-20px;                right:-160px;                margin-bottom:-20px;            }            .tebexProfile.active, .tebexDropdown.active {                display:block;            }            .tebexButtons {                width:350px;                height:100%;                float:right;                text-align:right;                line-height:52px;                font-size:12px;            }            .tebexBtn {                display:block;                width:80%;                margin: 10px 10%;            }            .tebexBtnDefault {                color: #333;                background-color: #00b0ff;                border-color: #ccc;                font-size: 14px;                padding: 6px 12px;                border-radius: 4px;                text-align:center;                vertical-align:middle;                line-height:1.42857143;            }            .tebexContainer {                width:100%;                max-width:1024px;                margin:0px auto;                height:100%;            }            .tebexLogoutBtn, .tebexSignupBtn {                margin-left:20px;                border:1px solid #00b0ff;                border-radius:3px;                padding:8px 10px;                color:#00b0ff;                cursor:pointer;            }            .tebexSignupBtn {                background: #00b0ff;                color:#00b0ff;            }            .tebexLoginBtn, .tebexLoginBtn:hover {                color: #00b0ff;                cursor:pointer;            }            .tebexLogoutBtn:hover {                background: #00b0ff;                color:#00b0ff            }            .tebexModal {                position:fixed;                top:100px;                left:50%;                width:310px;                margin-left:-155px;                min-height:300px;                background:#FFF;            }            .tebexModalTitle,.tebexModalClose {                height:50px;                line-height:50px;                font-size:15px;                font-weight:bold;            }            .tebexModalTitle {                width:60%;                height:100%;                float:left;                padding-left:20px;            }            .tebexModalClose {                text-align:center;                float:right;                border-left:1px solid #DDD;                width:50px;                font-size:260%;                font-weight:100;                cursor:pointer;            }            .tebexModalBody {                padding:20px;                clear:both;                border-top:1px solid #DDD;            }            .tebexModalCover {                position:fixed;                width:100%;                height:100%;                top:0px;                left:0px;                z-index:50;                background:rgba(0,0,0,0.6);                color:#333;            }            .tebexIframe {                border:0px;                width:100%;                overflow:hidden;            }            .tebexAvatar {                width:25px;                height:25px;                border-radius:12px;                margin:13px;                float:left;                overflow:hidden;                line-height:100%;            }            .tebexAvatar img {                width:100%;                height:100%;            }            .tebexProfileItem {                height:52px;                border-bottom:1px solid #EEE;                line-height:52px;                cursor:pointer;            }            .tebexChooseProfile {                padding-left:15px;                font-size:115%;            }            .tebexProfilePicker:after {                content: "&#8964;";                font-size:180%;                display:block;                float:right;                height:40px;                line-height:40px;                margin-right:10px;            }            .tebexProfilePicker {                border-bottom: 0;            }            @media only screen            and (max-width: 565px) {                .tebexEmailAddress { display:none; }                .tebexButtons { width: 300px; }                .tebexProfile.active + .tebexButtons { width: 150px; }            }</style><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/timeline.628a0bcfd854b302fe473a57232fcd2e.js"></script></head>
+
+<body><div class="tebexLogin"><div class="tebexContainer"><div class="tebexProfile"></div><div class="tebexButtons"><a class="tebexLoginBtn" data-tebex-do="loginModal">LOG IN TO TEBEX</a> <a class="tebexSignupBtn" data-tebex-do="signupModal">SIGN UP TO TEBEX</a></div></div></div>
+
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>GreekSkies | Welcome</title>
+
+    <link href="/templates/209/css/style.min.css" rel="stylesheet">
+   
+    <link rel="shortcut icon" href="/templates/209/img/favicon.ico">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        
+        _gaq.push(['_setAccount', 'UA-36735942-3']);
+        _gaq.push(['_trackPageview']);
+        
+                
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script><div id="h2I71ei-1533573015972" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; position: fixed !important; border: 0px !important; min-height: 0px !important; min-width: 0px !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: auto !important; height: auto !important; z-index: 2000000000 !important; cursor: auto !important; float: none !important; display: block !important; bottom: 0px !important; right: 0px !important; left: auto !important;"><iframe id="Y5KeObO-1533573015973" src="about:blank" frameborder="0" scrolling="no" title="chat widget" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; right: auto !important; bottom: auto !important; left: auto !important; position: static !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 320px !important; height: 400px !important; z-index: 999999 !important; cursor: auto !important; float: none !important; display: none !important;"></iframe><iframe id="SGpQfxk-1533573015974" src="about:blank" frameborder="0" scrolling="no" title="chat widget" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; position: fixed !important; border: 0px !important; padding: 0px !important; transition-property: none !important; z-index: 1000001 !important; cursor: auto !important; float: none !important; width: 260px !important; min-width: 260px !important; max-width: 260px !important; transform: rotate(0deg) translateZ(0px) !important; transform-origin: 0px center 0px !important; margin: 0px !important; top: auto !important; bottom: 0px !important; right: 10px !important; left: auto !important; height: 60px !important; min-height: 60px !important; max-height: 60px !important; display: block !important;"></iframe><iframe id="YNAEam4-1533573015974" src="about:blank" frameborder="0" scrolling="no" title="chat widget" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; position: fixed !important; border: 0px !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; display: none !important; z-index: 1000003 !important; cursor: auto !important; float: none !important; top: auto !important; right: 10px !important; left: auto !important; width: 260px !important; max-width: 260px !important; min-width: 260px !important; height: 37px !important; max-height: 37px !important; min-height: 37px !important; bottom: 60px !important;"></iframe><div id="zFRXNWD-1533573015972" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none rgb(255, 255, 255) !important; opacity: 0 !important; top: 1px !important; bottom: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: auto !important; display: block !important; z-index: 999997 !important; cursor: move !important; float: none !important; left: 0px !important; right: 96px !important; height: 50px !important;"></div><div id="xtKa38w-1533573015972" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: 96px !important; bottom: auto !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 6px !important; height: 100% !important; display: block !important; z-index: 999998 !important; cursor: w-resize !important; float: none !important;"></div><div id="A0k1d3M-1533573015972" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: 0px !important; bottom: auto !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 6px !important; height: 100% !important; display: block !important; z-index: 999998 !important; cursor: e-resize !important; float: none !important;"></div><div id="rGvDYZ8-1533573015972" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: 0px !important; bottom: auto !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 100% !important; height: 6px !important; display: block !important; z-index: 999998 !important; cursor: n-resize !important; float: none !important;"></div><div id="MCe3X1N-1533573015972" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; right: 0px !important; bottom: 0px !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 100% !important; height: 6px !important; display: block !important; z-index: 999998 !important; cursor: s-resize !important; float: none !important;"></div><div id="vUExbl6-1533573015973" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: auto !important; bottom: auto !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999998 !important; cursor: nw-resize !important; float: none !important;"></div><div id="KaEEcsP-1533573015973" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: 0px !important; bottom: auto !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999998 !important; cursor: ne-resize !important; float: none !important;"></div><div id="pUZMFTC-1533573015973" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; right: auto !important; bottom: 0px !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999998 !important; cursor: sw-resize !important; float: none !important;"></div><div id="OIi6pfG-1533573015973" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; right: 0px !important; bottom: 0px !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999999 !important; cursor: se-resize !important; float: none !important;"></div><div class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: auto !important; bottom: auto !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 100% !important; height: 100% !important; display: none !important; z-index: 1000001 !important; cursor: move !important; float: left !important;"></div></div><iframe src="about:blank" title="chat widget logging" style="display: none !important;"></iframe>
+    
+    <style>@import url(https://fonts.googleapis.com/css?family=Anton);
+
+/* Highlight */
+::selection {
+  background: white;
+  color: #66d0ff;
+}
+
+/* Background */
+body {
+  background: url(https://i.imgur.com/INtS2m8.jpg);
+  background-image: no-repeat;
+  background: white;
+  background-size: cover;
+  font-family: 'Anton', sans-serif;
+  margin: auto;
+}
+
+html {
+  font-family: 'Anton', sans-serif;
+  background: url(https://i.imgur.com/INtS2m8.jpg);
+  background-image: no-repeat;
+  background-size: cover;
+}
+
+.tabexContainer {
+  width: 70vw;
+  background: white;
+  margin-top: 100px;
+}
+
+.tebexLogin {
+    position: relative;
+    display: inline;
+    visibility: visible;
+    font-family: 'Anton', sans-serif;
+    z-index: 1;
+}
+
+/* Scrollbar */
+html::-webkit-scrollbar {
+  width: 10px;
+}
+body::-webkit-scrollbar {
+  width: 10px;
+}
+body::-webkit-scrollbar-track {
+  background: #2a2a2a;
+}
+body::-webkit-scrollbar-thumb {
+  background: #ff0;
+}
+body::-webkit-scrollbar-thumb:hover {
+  background: #66d0ff;
+}
+html::-webkit-scrollbar-track {
+  background: #2a2a2a;
+}
+html::-webkit-scrollbar-thumb {
+  background: #ff0;
+}
+html::-webkit-scrollbar-thumb:hover {
+  background: #66d0ff;
+}
+
+
+/* Header and Logos */
+.header {
+  margin-bottom: 100px;
+  background-color: white;
+  padding: 8px 16px 8px 16px;
+  width: 100vw;
+  position: relative;
+  top: -30px;
+  left: -36%;
+  z-index: 2;
+  height: 80px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+.header .logo {
+  float: none;
+  margin-left: 15vw;
+}
+.header .logo a:before {
+  content: url('');
+  animation-name: rock;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+.header .logo img {
+  display: inline;
+}
+@keyframes rock {
+  0% {
+     -ms-transform: rotate(5deg);
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+  50% {
+    -ms-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+  }
+  100% {
+    -ms-transform: rotate(5deg);
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+}
+.header .buttons {
+  width: auto;
+  float: none;
+  height: 0;
+  margin-right: 15vw;
+  padding: 0;
+}
+
+.header .buttons .toolbar {
+  width: auto;
+  margin: 0;
+  position: relative;
+  top: -75px;
+}
+
+/* Navigation Bar */
+.navbar-default {
+  background: white;
+  border: 0;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  margin-top: 16px;
+}
+.navbar-default .navbar-nav li a,
+.navbar-default .navbar-nav li a:visited,
+.navbar-default .navbar-nav li a:link {
+  color: #ff0;
+  text-decoration: none;
+  background: none;
+}
+.navbar-default .navbar-nav li a:hover {
+  opacity: 0.8;
+  color: #66d0ff;
+  text-decoration: none;
+}
+.navbar-default .navbar-nav .active {
+  opacity 0.8;
+  color: #ff0;
+}
+.navbar-default .navbar-nav .active a,
+.navbar-default .navbar-nav .active a:visited,
+.navbar-default .navbar-nav .active a:link {
+  color: #66d0ff;
+  text-decoration: none;
+}
+.navbar-default .navbar-nav .active a:hover {
+  color: black;
+  text-decoration: none;
+}
+.navbar-default .navbar-nav .open a:focus {
+  background: white;
+  color: #66d0ff;
+}
+.dropdown-menu {
+  background: white;
+  border: 0;
+  border-radius: 0;
+}
+.dropdown-menu li a {
+  background: white;
+  color: #ff0;
+  transition: .3s all ease-in;
+  font-family: 'Anton', sans-serif;
+}
+.dropdown-menu li a:hover {
+  background: white;
+  color: #66d0ff;
+}
+.dropdown-menu-right {
+  background: white;
+}
+.dropdown-menu .active a {
+  color: black;
+  text-decoration: none;
+  background-color: white;
+}
+.dropdown-menu .active a:hover {
+  background-color: white;
+  color: #66d0ff;
+}
+
+/* Panels */
+.panel { 
+  border: 0;
+  background: white;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.panel .panel-heading {
+  background: white;
+  border: 0;
+  color: #ff0;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+  text-align: center;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.panel-body {
+  background: white;
+}
+.panel-body a {
+  color: black;
+  background: white;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+  text-decoration: none;
+  transition: .3s all ease-in;
+}
+.panel-body a:hover {
+  color: #66d0ff;
+}
+
+/* Modals */
+.modal {
+  text-shadow: none;
+  opacity: 1;
+}
+.modal-header {
+  background: white;
+  border: 0;
+  color: #ff0;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius 0 !important;
+}
+.modal-header .close {
+    content:'';
+    background: url(https://i.imgur.com/Hldzgt9.png);
+    background-size: cover;
+    background-image: no-repeat;
+    color: transparent;
+    width:100%;
+}
+.modal-body {
+  background: white;
+  color: black;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.modal-footer {
+  background: white;
+  border: 0;
+  color: black;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+/* Buttons */
+.btn {
+  background: #66d0ff !important;
+  border: 2px solid white !important;
+  border-radius: 2px !important;
+  color: #fff !important;
+  opacity: 1 !important;
+  padding: 4px 16px 4px 16px;
+}
+
+.btn:hover {
+  opacity: 1 !important;
+  color: #fff;
+  background: #66d0ff;
+}
+
+.category .packages-image .package .info .button {
+  width: auto !important;
+  color: black;
+}
+
+/* Progress Bar */
+.progress-bar {
+  background: white;
+}
+.progress { 
+  background: #ff0;
+  border: 0;
+  border-radius: 0;
+}
+
+/* Footer */
+.footer {
+  width: 100%;
+  background: white;
+  border: 0;
+  margin: 0;
+  margin-bottom: 16px;
+  opacity: 1;
+  padding: 20px;
+}
+.footer:before {
+  color: black;
+  content: '';
+  display: table;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+  position: relative;
+}
+.branding {
+  color: black;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+}
+
+.branding a {
+  color: #ff0;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+  text-decoration: none;
+  transition: .3s all ease-in;
+}
+.branding a:hover {
+  color: #66d0ff;
+}
+.language a {
+  color: #ff0;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+  text-decoration: none;
+  transition: .3s all ease-in;
+}
+.language a:hover {
+  color: #66d0ff;
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 100vw;
+    background: white;
+  }
+  .navbar-default .navbar-brand {
+    color: black;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+  }
+  .header {
+    top: 0;
+    height: 120px;
+    left: 15px;
+  }
+}</style>
+
+  <style type="text/css">body {            padding-top:52px;            }            .tebexLogin {                font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;                height: 52px;                background: #00b0ff;                color: #00b0ff;                display:block !important;                width:100%;                opacity:1 !important;                visibility: visible !important;                position:absolute;                top:0px;                left:0px;                font-size:90%;                z-index:1337;            }            .xpaystation-widget-lightbox {              z-index: 31337 !important;            }            .tebexProfile {                background: rgba(0, 0, 0, 0.25);                width: 200px;                height:100%;                float:left;                display:none;                position:relative;            }            .tebexDropdown {                display:none;                width:200px;                background:#FFF;                x-min-height:100px;                position:absolute;                top:52px;                left:0px;                border: 1px solid #EEE;                z-index:100;                color: #222;                line-height:100%;            }            .tebexDropdown:before {                display:block;                width:0px;                height:00px;                background:transparent;                border-top:10px  solid transparent;                border-left:10px solid transparent;                border-right:10px solid transparent;                border-bottom:10px solid #FFF;                content:"";                position:relative;                top:-20px;                right:-160px;                margin-bottom:-20px;            }            .tebexProfile.active, .tebexDropdown.active {                display:block;            }            .tebexButtons {                width:350px;                height:100%;                float:right;                text-align:right;                line-height:52px;                font-size:12px;            }            .tebexBtn {                display:block;                width:80%;                margin: 10px 10%;            }            .tebexBtnDefault {                color: #333;                background-color: #00b0ff;                border-color: #ccc;                font-size: 14px;                padding: 6px 12px;                border-radius: 4px;                text-align:center;                vertical-align:middle;                line-height:1.42857143;            }            .tebexContainer {                width:100%;                max-width:1024px;                margin:0px auto;                height:100%;            }            .tebexLogoutBtn, .tebexSignupBtn {                margin-left:20px;                border:1px solid #00b0ff;                border-radius:3px;                padding:8px 10px;                color:#00b0ff;                cursor:pointer;            }            .tebexSignupBtn {                background: #00b0ff;                color:#00b0ff;            }            .tebexLoginBtn, .tebexLoginBtn:hover {                color: #00b0ff;                cursor:pointer;            }            .tebexLogoutBtn:hover {                background: #00b0ff;                color:#00b0ff            }            .tebexModal {                position:fixed;                top:100px;                left:50%;                width:310px;                margin-left:-155px;                min-height:300px;                background:#FFF;            }            .tebexModalTitle,.tebexModalClose {                height:50px;                line-height:50px;                font-size:15px;                font-weight:bold;            }            .tebexModalTitle {                width:60%;                height:100%;                float:left;                padding-left:20px;            }            .tebexModalClose {                text-align:center;                float:right;                border-left:1px solid #DDD;                width:50px;                font-size:260%;                font-weight:100;                cursor:pointer;            }            .tebexModalBody {                padding:20px;                clear:both;                border-top:1px solid #DDD;            }            .tebexModalCover {                position:fixed;                width:100%;                height:100%;                top:0px;                left:0px;                z-index:50;                background:rgba(0,0,0,0.6);                color:#333;            }            .tebexIframe {                border:0px;                width:100%;                overflow:hidden;            }            .tebexAvatar {                width:25px;                height:25px;                border-radius:12px;                margin:13px;                float:left;                overflow:hidden;                line-height:100%;            }            .tebexAvatar img {                width:100%;                height:100%;            }            .tebexProfileItem {                height:52px;                border-bottom:1px solid #EEE;                line-height:52px;                cursor:pointer;            }            .tebexChooseProfile {                padding-left:15px;                font-size:115%;            }            .tebexProfilePicker:after {                content: "&#8964;";                font-size:180%;                display:block;                float:right;                height:40px;                line-height:40px;                margin-right:10px;            }            .tebexProfilePicker {                border-bottom: 0;            }            @media only screen            and (max-width: 565px) {                .tebexEmailAddress { display:none; }                .tebexButtons { width: 300px; }                .tebexProfile.active + .tebexButtons { width: 150px; }            }</style>
+  <div class="tebexLogin"><div class="tebexContainer"><div class="tebexProfile"></div><div class="tebexButtons"><a class="tebexLoginBtn" data-tebex-do="loginModal">LOG IN TO TEBEX</a> <a class="tebexSignupBtn" data-tebex-do="signupModal">SIGN UP TO TEBEX</a></div></div></div>
+
+    <div class="container">
+
+      <div class="header">
+
+        <div class="logo">
+                            <a href="/"><img src="//dunb17ur4ymx4.cloudfront.net/webstore/logos/2048f58505183d3cf458931c48d0a7191b628d17.png"></a>
+                    </div>
+
+        <div class="buttons">
+          <div class="toolbar">
+            <div class="logout">
+                            </div>
+            <div class="currency">
+              <a href="#" class="btn btn-info" disabled="disabled">
+                Login</a>            </div>
+            <div class="basket">
+                                  <a href="#" class="btn btn-info" disabled="disabled"><i class="icon-shopping-cart icon-white"></i> Register</a>
+                            </div>
+          </div>
+        </div>
+
+      </div>
+      
+  <div class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+      <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+      <li data-target="#myCarousel" data-slide-to="3" class=""></li>
+      <li data-target="#myCarousel" data-slide-to="4" class=""></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item">
+        <img src="https://i.imgur.com/Tg16l0S.jpg" alt="Los Angeles" style="width:100%;">
+      </div>
+
+      <div class="item active">
+        <img src="https://i.imgur.com/2cCbTti.png" alt="Chicago" style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="https://i.imgur.com/uxL8d95.png" alt="New york" style="width:100%;">
+      </div>
+      
+            <div class="item">
+        <img src="https://i.imgur.com/JQOdrBp.png" alt="New york" style="width:100%;">
+      </div>
+      
+            <div class="item">
+        <img src="https://i.imgur.com/692Uu5C.png" alt="New york" style="width:100%;">
+      </div>
+    </div>
+        
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">GreekSkies</a>
+          </div>
+
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/">Home</a></li>
+                                                      <li class=""><a href="/forums/">Forums</a></li>
+                                                                        <li class=""><a href="/shop/">Shop</a></li>
+                                                                  
+                                            <li class=""><a href="/vote/">Vote</a></li>
+<li class=""><a href="/Texture-Pack/">Texture Pack</a></li></ul>
+                                        
+          </div>
+        </div>
+      </nav>
+        
+      <div class="notification">
+          
+      </div>
+
+      	<div class="body">
+		<div class="content">
+			<div class="panel panel-default">
+				<div class="panel-heading">Welcome</div>
+				<div class="panel-body">
+					<p>
+				  		</p><h1><strong><span style="font-family:arial;">Get Our Brand New<span style="color:#3366ff;"> Official</span><span style="color:#ff0000;"> Texture</span> Pack<br><br></span></strong></h1>
+<h4>&nbsp;<br><img src="https://i.imgur.com/DqRSOyR.png"></h4>
+<div style="color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;text-align:center;">
+
+<h4>&nbsp;</h4>
+<h4><a href="/assets/texture-pack/1.8/" class="btn btn-info">1.8 Download</a><a href="/assets/texture-pack/1.9/" class="btn btn-info">1.9 Download</a><br><br>If you have any questions or concerns, feel free&nbsp;<br>to send us an email to&nbsp;<strong>support@GreekSkies.com</strong>.<br>Have a great day!</h4>
+</div>
+					<p></p>
+				</div>
+			</div>
+		</div>
+		<div class="sidebar">
+			<div class="panel panel-default module">
+    <div class="panel-heading">Our Twitter</div>
+    <div class="panel-body">
+      <ul class="payments">
+                    <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px; height: 961.906px;" data-widget-id="profile:SkiesGreek" title="Twitter Timeline"></iframe> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              </ul>
+    </div>
+</div><div class="panel panel-default">
+    <div class="panel-heading">Our Discord</div>
+    <div class="panel-body">
+        <p>
+          <a href="https://discord.gg/M4W2f4u"><img src="https://steemitimages.com/0x0/https://leaked.site/assets/discord.gif" width="350"></a>
+     		</p><p></p>
+     	<p></p>
+    </div>
+</div>    <div class="panel panel-default module">
+        <div class="panel-heading">
+            <div class="pull-left">Server Status</div>
+            <div class="text-right">
+                                    <span class="label label-success">Online</span>
+                            </div>
+        </div>
+        <div class="panel-body">
+          <div class="server-status">
+            <h4>158.69.54.234:41573</h4>
+            <p>
+                                  0 / 2018
+                                players online.
+            </p>
+          </div>
+        </div>
+      </div>
+
+		</div>
+	</div>
+
+      
+      <div class="footer">
+          <div class="language">
+              <div class="dropdown dropup">
+                <a href="/terms/" class="dropdown-toggle" data-toggle="dropdown"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Red_copyright.svg/1024px-Red_copyright.svg.png" height="16" width="16"> Copyright 2018 - All Rights Reserved</a>
+          </div>
+                      <div class="branding"> 
+              <!-- Do not remove the Buycraft branding if you are not on the Ultimate Plan. Your account will be deleted. -->
+              Designed by <a href="//rf-marketing.ezyro.com/shop/" target="_blank">RFM-Designs.net</a>
+            </div>
+                </div>
+    
+    </div>
+    
+    <div class="modal" id="popup-modal" tabindex="-1" role="dialog"></div>
+    
+        
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>  
+    <script src="/templates/209/js/bootstrap.min.js"></script>
+    <script src="/templates/209/js/skin.min.js"></script>
+    <script src="/templates/209/js/site.js"></script>
+     <script>
+            jQuery(function(){
+                var countdowns = $(".countdown-to");
+                countdowns.each(function(){
+                   setInterval(function(ele) {
+                       timeLeft = parseInt(ele.attr("data-countdown"));
+                       if (timeLeft == 0) {
+                           ele.html("Time Expired!");
+                       } else {
+                       timeLeft--;
+                       ele.attr("data-countdown", timeLeft);
+                      var days = Math.floor(timeLeft / (60 * 60 * 24));
+                      var hours = Math.floor((timeLeft % (60 * 60 * 24)) / (60 * 60));
+                      var minutes = Math.floor((timeLeft % (60 * 60)) / (60));
+                      var seconds = Math.floor((timeLeft % 60));
+                      ele.html(days + "d " + hours + "h " + minutes + "m " + seconds + "s");
+                       }
+                   }, 1000, jQuery(this));
+                });
+            });
+
+        </script>
+  
+<script src="https://server.buycraft.net/tebexAccounts/tebexaccounts.js"></script>
+<script>
+    var TebexAccounts = new TebexAccounts(document.body, {
+        'accountId' : 717104,
+        'usernameId' : '',
+        'autoLogin': true,
+        'barBg' : '#00b0ff',
+        'barColor' : '#00b0ff'    });
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ade4f02621","applicationID":"31217205","transactionName":"ZQAEZUBYWBVTBRZbXlxKJ1JGUFkIHS8MVlRKSg9fVlxO","queueTime":0,"applicationTime":533,"atts":"SUcHEwhCSxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  
+
+    <script src="js/index.js"></script>
+
+
+
+
+
+
+
+</div></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 13; top: 657.612px; left: 1128.3px; opacity: 0.825321;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 11; top: 1161.22px; left: 365.396px; opacity: 0.52303;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 6; top: 766.741px; left: 733.395px; opacity: 0.340272;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 0; top: 120.971px; left: 472.982px; opacity: 0.992497;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 4; top: 1452.76px; left: 1027.58px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 2; top: 739.519px; left: 1147.89px; opacity: 0.570173;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 4; top: 583.745px; left: 463.747px; opacity: 0.930221;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 3; top: 713.713px; left: 739.353px; opacity: 0;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 6; top: 1103.24px; left: 1173.37px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 13; top: 362.515px; left: 727.129px; opacity: 0.675267;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 0; top: 520.244px; left: 294.757px; opacity: 0.993247;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 14; top: 449.098px; left: 450.424px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 2; top: 670.179px; left: 659.992px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 2; top: 477.678px; left: 856.617px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 11; top: 629.731px; left: 236.413px; opacity: 0.00463116;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 5; top: 1464.61px; left: 171.567px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 13; top: 1015.49px; left: 740.132px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 12; top: 1507.64px; left: 321.049px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 17; top: 194.748px; left: 336.102px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 19; top: 1276.55px; left: 314.233px; opacity: 0.200811;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 9; top: 202.762px; left: 665.253px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 2; top: 772.215px; left: 183.871px; opacity: 0.763122;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 10; top: 791.032px; left: 289.354px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 12; top: 1494.05px; left: 659.176px; opacity: 0.0454365;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 2; top: 1070.99px; left: 1075.6px; opacity: 0.903083;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 18; top: 891.036px; left: 801.633px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 5; top: 500.514px; left: 767.239px; opacity: 0.838823;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 10; top: 1547.01px; left: 554.904px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 13; top: 1312.61px; left: 1198.13px; opacity: 0.981349;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 12; top: 137.422px; left: 632.584px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 5; top: 576.885px; left: 161.862px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 1; top: 951.651px; left: 153.415px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 10; top: 949.041px; left: 880.227px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 4; top: 919.334px; left: 1141.09px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 5; top: 641.589px; left: 962.147px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 10; top: 698.989px; left: 424.65px; opacity: 0.0389118;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 5; top: 1131.25px; left: 832.673px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 11; top: 1308.18px; left: 876.512px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 11; top: 416.299px; left: 1253.81px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 13; top: 1480.35px; left: 302.167px; opacity: 0.348233;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 6; top: 1288.2px; left: 1058.73px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 9; top: 1367.52px; left: 1139.02px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 10; top: 1277.23px; left: 434.827px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 5; top: 314.443px; left: 304.519px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 14; top: 19.5067px; left: 1024.52px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 11; top: 1478.62px; left: 327.571px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 3px; height: 3px; background-color: rgb(255, 255, 0); z-index: 13; top: 621.89px; left: 911.344px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 1; top: 647.92px; left: 611.403px; opacity: 0;"></div><div class="jqueryFireFly" style="position: absolute; width: 1px; height: 1px; background-color: rgb(255, 255, 0); z-index: 7; top: 572.042px; left: 888.831px; opacity: 1;"></div><div class="jqueryFireFly" style="position: absolute; width: 2px; height: 2px; background-color: rgb(255, 255, 0); z-index: 18; top: 952.471px; left: 38.5978px; opacity: 0.777085;"></div><iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.cb6df5c11eb74c4885e17101a777cb60.html?origin=http%3A%2F%2Fgreekskies.ezyro.com&amp;settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>
